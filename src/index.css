@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mettre ici les styles "globaux" */
+/*Avant le dark mode*/
+:root {
+    --couleur-text: black;
+    --couleur-fond: white;
+    --color-debut-gradient: #A8A29E;
+    --color-fin-gradient: #801e1e;
+    --couleur-interactive: #d92d3c;
+    --couleur-h2: #801e1e;
+    --couleur-footer: #B1ACA9;
+    --couleur-header: #A8A29E;
+    --color-card: black;
+    --couleur-red-600: #dc2626;
+    --couleur-tri: #f3f4f6;
+    --couleur-card-2nd: #e5e7eb;
+    --color-debut-gradient-2: #bbb7b4;
+    --color-fin-gradient-2: #801e1e;
+    --couleur-placeholder: #9ca3af;
+
+}
+
+/*après dark mode*/
+@media (prefers-color-scheme: dark) {
+    :root {
+        --couleur-text: white;
+        --couleur-fond: black;
+        --color-debut-gradient: #777777b6;
+        --color-fin-gradient: rgb(0, 0, 0);
+        --couleur-interactive: #d92d3c;
+        ;
+        --couleur-h2: rgb(255, 255, 255);
+        --couleur-footer: #2e2e2e;
+        --couleur-header: #777777b6;
+        --color-card: white;
+        --couleur-red-600: #7f1d1d;
+        --couleur-tri: #4b5563;
+        --couleur-card-2nd: #374151;
+        --color-debut-gradient-2: #777777b6;
+        --color-fin-gradient-2: black;
+        --couleur-placeholder: white;
+    }
+}
+
+@media (min-width: 640px) {
+    .hidden-sm {
+        display: none;
+    }
+}
+
+@keyframes bounce-top {
+    0% {
+        transform: translateY(-45px);
+        animation-timing-function: ease-in;
+        opacity: 1
+    }
+
+    24% {
+        opacity: 1
+    }
+
+    40% {
+        transform: translateY(-24px);
+        animation-timing-function: ease-in
+    }
+
+    65% {
+        transform: translateY(-12px);
+        animation-timing-function: ease-in
+    }
+
+    82% {
+        transform: translateY(-6px);
+        animation-timing-function: ease-in
+    }
+
+    93% {
+        transform: translateY(-4px);
+        animation-timing-function: ease-in
+    }
+
+    25%,
+    55%,
+    75%,
+    87% {
+        transform: translateY(0);
+        animation-timing-function: ease-out
+    }
+
+    100% {
+        transform: translateY(0);
+        animation-timing-function: ease-out;
+        opacity: 1
+    }
+}

@@ -1,0 +1,18 @@
+
+
+<template>
+  <div class=" justify-end items-center w-[59.84px] relative overflow-hidden  px-2.5 pt-3 pb-[17px] flex">
+    <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+      <rect width="96" height="96" fill="url(#pattern0)" />
+      <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+          <use xlink:href="#image0_816_337" transform="scale(0.0104167)" />
+        </pattern>
+        <image id="image0_816_337" width="96" height="96"
+          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAj0lEQVR4nO3ZwQ0EIQwDQPfftLeDvdfKiJuRUgBxCA8SAAAAAAAAAOAYVXnrgQCyHRIBRAB/vaY+tz5gDy8B5PIAAAAAAAAA4G7rL78eXgKIAOZTWDdg34haQftmdFDegFweAAAAAAAAANxt/eXXw0sAEcB8CusG7BtRK2jfjA7KG5DLAwAAAAAAAAAA8tsD4hULPDIEJ0cAAAAASUVORK5CYII=" />
+      </defs>
+    </svg>
+
+  </div>
+</template>
