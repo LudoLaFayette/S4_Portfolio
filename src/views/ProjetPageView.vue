@@ -1,8 +1,6 @@
 <template>
   <div class="flex flex-col bg-fond">
-    <div class="flex">
-      <img src="../../images/image_8.webp" alt="projet01" class="w-full" />
-    </div>
+   
     <!-- Changement de page pour correction à la maquette : plus de card ici -->
 
 
