@@ -20,7 +20,7 @@
         <p>Prenom : Ludovic </p>
         <p>Age : 23 ans</p>
         <p>Profession : Etudiant</p>
-        <p>Spécailité : Le développement de site web, partie back-office </p>
+        <p>Spécailité : Le développement de site web, partie back-office. </p>
       </div>
     </div>
     

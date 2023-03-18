@@ -20,7 +20,7 @@
 
     <div class="flex justify-center py-20 font-alegreya-sans">
       <div class="flex w-[50%]  flex-col gap-[40px] rounded-[35px] bg-black shadow-cardShadow border-8 border-white">
-        <img src="../../images/LogoS1B.png"  alt="projet01" class="flex w-full rounded-tr-[25px] rounded-tl-[25px] bg-white" />
+        <img src="../../images/LogoS1BB.png"  alt="projet01" class="flex w-full rounded-tr-[25px] rounded-tl-[25px] bg-white" />
         <p class="font-Alegreya Sans pl-10 text-left lg:text-7xl md:text-5xl text-3xl  text-text">Fémokipédia</p>
         <div class="flex px-5 leading-3">
           <p class="font-Alegreya Sans flex text-left lg:text-5xl md:text-3xl text-2xl text-text">
@@ -75,7 +75,7 @@
 
     <div class="flex justify-center py-20 font-alegreya-sans">
       <div class="flex w-[50%] flex-col gap-[40px] rounded-[35px] bg-black shadow-cardShadow border-8 border-white">
-        <img src="../../images/S4B.jpg" alt="projet04" class="flex w-full rounded-tr-[35px] rounded-tl-[35px]" />
+        <img src="../../images/LogoS4B.jpg" alt="projet04" class="flex w-full rounded-tr-[35px] rounded-tl-[35px]" />
         <p class="font-Alegreya Sans pl-10 text-left lg:text-7xl md:text-5xl text-3xl  text-text border-white border-t-4">Pakuman</p>
         <div class="flex px-5 ">
           <p class="font-Alegreya Sans flex text-left lg:text-5xl md:text-3xl text-2xl text-text">
