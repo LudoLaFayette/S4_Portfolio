@@ -41,7 +41,7 @@
         class="grid justify-center items-center border-r-4 border-r-solid border-r-white font-Alegreya Sans text-sm text-color-card md:text-md lg:text-lg gap-5 ">
         <figure>
           <figcaption>Photo :</figcaption>
-          <img src="../../images/Logo-site.svg" alt="ma photo de profil" width="300" class="mt-[15px]">
+          <img src="../../images/LogoSite.svg" alt="ma photo de profil" width="300" class="mt-[15px]">
         </figure>
       </div>
       <div class="grid grid-flow-row font-Alegreya Sans text-md text-color-card md:text-md lg:text-lg p-10 gap-6 leading-6">

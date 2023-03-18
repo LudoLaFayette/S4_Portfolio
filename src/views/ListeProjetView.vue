@@ -39,7 +39,7 @@
 
     <div class="flex justify-center py-20 font-alegreya-sans">
       <div class="flex w-[50%] flex-col gap-[40px] rounded-[35px] bg-black shadow-cardShadow border-8 border-white">
-        <img src="../../images/logo-site.svg" alt="projet02" class="flex w-full rounded-tr-[35px] rounded-tl-[35px]" />
+        <img src="../../images/logoSite.svg" alt="projet02" class="flex w-full rounded-tr-[35px] rounded-tl-[35px]" />
         <p class="font-Alegreya Sans pl-10 text-left lg:text-7xl md:text-5xl text-3xl  text-text border-white border-t-4">Lets Draw</p>
         <div class="flex px-5 ">
           <p class="font-Alegreya Sans flex text-left lg:text-5xl md:text-3xl text-2xl text-text">
